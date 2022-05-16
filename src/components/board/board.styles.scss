@@ -1,0 +1,24 @@
+.white-field {
+  background-color: #37affa;
+}
+
+.black-field {
+  background-color: #f32424;
+}
+
+td {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+tr {
+  display: flex;
+  align-items: center;
+}
+
+table {
+  border-spacing: 0px;
+}
